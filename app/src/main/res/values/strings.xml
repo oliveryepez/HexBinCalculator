@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">HexBinCalculator</string>
+    <string name="widget_text">Conversions Widget</string>
+
+    <!--HEX Buttons Text-->
+
+    <string name="A_text">A</string>
+    <string name="B_text">B</string>
+    <string name="C_text">C</string>
+    <string name="D_text">D</string>
+    <string name="E_text">E</string>
+    <string name="F_text">F</string>
+
+    <!--DECIMAL Buttons Text-->
+
+    <string name="ZERO_text">0</string>
+    <string name="ONE_text">1</string>
+    <string name="TWO_text">2</string>
+    <string name="THREE_text">3</string>
+    <string name="FOUR_text">4</string>
+    <string name="FIVE_text">5</string>
+    <string name="SIX_text">6</string>
+    <string name="SEVEN_text">7</string>
+    <string name="EIGTH_text">8</string>
+    <string name="NINE_text">9</string>
+
+</resources>

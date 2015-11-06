@@ -1,0 +1,6 @@
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:initialLayout="@layout/calculator_widget"
+    android:minWidth="250dip"
+    android:minHeight="180dip"
+    android:label="@string/widget_text"
+    android:updatePeriodMillis="100"/>
